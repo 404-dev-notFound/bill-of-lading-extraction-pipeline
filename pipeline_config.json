@@ -1,0 +1,13 @@
+{
+  "model_path": "best_transfer_model.h5",
+  "threshold": 0.278,
+  "img_size": [224, 224],
+  "zoom": [2.0, 2.0],
+  "rotation": 0,
+  "work_dir": "pipeline_work",
+  "gpu_device": 0,
+  "batch_size": 1,
+  "timeout_seconds": 3600,
+  "cleanup_temp_files": true,
+  "save_intermediate_results": true
+}
